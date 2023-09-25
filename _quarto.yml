@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "cnordheim.github.io"
+  title: "Caitlin Nordheim-Maestas"
   navbar:
     left:
       - href: index.qmd
@@ -14,7 +14,8 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: true #every page will have a table of contents by default
+    page-layout: full
 
 editor: visual
 

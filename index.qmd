@@ -1,5 +1,32 @@
 ---
-title: "cnordheim.github.io"
+title: "Caitlin Nordheim-Maestas"
+image: images/Caitlin_3506.jpeg
+toc: false
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 15em
+  links:
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en
+      icon: google
+    - text: Github
+      href: https://github.com/cnordheim
+      icon: github
+    - text: Email
+      href: mailto::caitlinnordheim@ucsb.edu
+      icon: envelope
 ---
 
-Hi! This is Caitlin
+## Hello! 
+
+Hi, I'm Caitlin Nordheim-Maestas! I'm a third-year Ph.D. student who is especially passionate about wildlife conservation, disease ecology, and undergraduate research mentorship. 
+
+I am in the Briggs Lab at UC Santa Barbara studying amphibian disease ecology, specifically, the "chytrid fungus" Batrachochytrium dendrobatidis, in California.
+
+
+## Education
+
+B.S. Biology, The University of Tampa (2015)
+
+Ph.D. Ecology, Evolution & Marine Biology, UC Santa Barbara (2021 - Present)
