@@ -17,5 +17,6 @@ format:
     toc: true #every page will have a table of contents by default
     page-layout: full
 
-editor: visual
+editor: source
+
 

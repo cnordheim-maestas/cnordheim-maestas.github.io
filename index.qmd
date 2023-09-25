@@ -1,6 +1,12 @@
 ---
 title: "Caitlin Nordheim-Maestas"
 image: images/Caitlin_3506.jpeg
+navbar:
+  left:
+    - href: index.qmd
+    - href: about.qmd
+    - href: Research.qmd
+    
 toc: false
 about:
   template: trestles
