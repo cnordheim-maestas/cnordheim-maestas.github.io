@@ -4,21 +4,37 @@ project:
 
 website:
   title: "Caitlin Nordheim-Maestas"
+  # title: false # to make a logo instead
+  # logo: images/Caitlin_3506.jpeg #transparent background is best
+  # logo-alt: "alt text here"
   navbar:
+    favicon: images/favicon-16x16.png
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
       - href: Research.qmd
       - href: Mentoring.qmd
         text: Mentorship
-
+      - href: cv/Nordheim.CV.pdf
+        text: CV
+    right: 
+      - icon: github
+        href: https://github.com/cnordheim # VERY specific indentation!!
+      - icon: google
+        href: https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en # VERY specific indentation!!
+  page-footer: 
+    background: light
+    left: "Copyright 2023, Caitlin Nordheim-Maestas"
+    
 format:
   html:
-    theme:
-      light: minty
-      dark: darkly
-    css: styles.css
+    theme: 
+      - minty
+      - styles.scss
+      # light: minty (premade theme)
+      # dark: darkly (premade theme)
+    # css: styles.css (gonna use our own scss instead!)
+    mainfont: Nunito
     toc: true #every page will have a table of contents by default
     page-layout: full
 

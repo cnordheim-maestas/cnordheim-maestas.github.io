@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+// import fonts
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+// (note // is a comment) 
+
+// Colors
+// https://htmlcolorcodes.com/
+$dark-green: #576c63;
+$light-green: #919b84;
+$light-blue: #AED6F1;
+
+// Base document colors
+$navbar-bg: $dark-green;
+// $navbar-fg: $dark-green;
+//$body-bg: $light-green;
+$footer-bg: $dark-green;
+$link-color: $light-green;
+
+/*-- scss:rules --*/
+h1, h2, {
+ #letter-spacing: 5px;
+ color:$dark-green;
+}
+
+.title {
+  color: $dark-green;
+}
+
+.center-text {
+  text-align: center;
+}
