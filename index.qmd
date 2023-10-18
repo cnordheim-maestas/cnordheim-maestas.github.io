@@ -13,9 +13,8 @@ about:
   image-shape: rectangle
   image-width: 15em
   links:
-    - text: Google Scholar
-      href: https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en
-      icon: graduation-cap # why isnt this working??
+    - href: https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en
+      text: "{{< ai google-scholar >}} Google Scholar" # quarto acdemicons extension!!
     - text: Github
       href: https://github.com/cnordheim
       icon: github

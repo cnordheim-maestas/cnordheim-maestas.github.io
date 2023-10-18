@@ -20,7 +20,7 @@ website:
     right: 
       - icon: github
         href: https://github.com/cnordheim # VERY specific indentation!!
-      - icon: google
+      - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en # VERY specific indentation!!
   page-footer: 
     background: light
