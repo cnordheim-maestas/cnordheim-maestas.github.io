@@ -16,7 +16,7 @@ about:
     - href: https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en
       text: "{{< ai google-scholar >}} Google Scholar" # quarto acdemicons extension!!
     - text: Github
-      href: https://github.com/cnordheim
+      href: https://github.com/cnordheim-maestas
       icon: github
     - text: Email
       href: mailto::caitlinnordheim@ucsb.edu
@@ -27,7 +27,7 @@ about:
 
 I'm Caitlin Nordheim-Maestas! I'm a third-year Ph.D. student who is especially passionate about wildlife conservation, disease ecology, and undergraduate research mentorship. 
 
-I am in the [Briggs Lab](https://briggslab.eemb.ucsb.edu/) at UC Santa Barbara studying amphibian disease ecology, specifically, the "chytrid fungus" Batrachochytrium dendrobatidis, in California.
+I am in the [Briggs Lab](https://briggslab.eemb.ucsb.edu/) at UC Santa Barbara studying amphibian disease ecology, specifically, the "chytrid fungus" *Batrachochytrium dendrobatidis*, in California.
 
 
 ## Education

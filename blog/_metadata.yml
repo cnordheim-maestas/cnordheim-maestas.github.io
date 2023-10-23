@@ -1,0 +1,7 @@
+ # enables baner style title blocks to add posts inside blog folder
+ # I dont like it so commented out
+# title-block-banner: true 
+
+# if true, this requires me to render individual posts before render website
+# if false, it'll take a long time to render the website
+freeze: true

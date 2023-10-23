@@ -7,16 +7,18 @@
 
 // Colors
 // https://htmlcolorcodes.com/
-$dark-green: #576c63;
-$light-green: #919b84;
-$light-blue: #AED6F1;
+$dark-green: #607263;
+$light-green: #edefee;
+$light-blue: #9b87a6;
+
+// https://imagecolorpicker.com/color-code/92a687 sage green complements
 
 // Base document colors
 $navbar-bg: $dark-green;
-// $navbar-fg: $dark-green;
-//$body-bg: $light-green;
+$navbar-fg: $light-green;
+$body-bg: $light-green;
 $footer-bg: $dark-green;
-$link-color: $light-green;
+$link-color: $light-blue;
 
 /*-- scss:rules --*/
 h1, h2, {
