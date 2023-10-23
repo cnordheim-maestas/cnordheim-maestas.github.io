@@ -15,11 +15,14 @@ website:
       - href: Research.qmd
       - href: Mentoring.qmd
         text: Mentorship
+      - href: Blog.qmd
+        text: Blog
       - href: cv/Nordheim.CV.pdf
         text: CV
+      
     right: 
       - icon: github
-        href: https://github.com/cnordheim # VERY specific indentation!!
+        href: https://github.com/cnordheim-maestas # VERY specific indentation!!
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en # VERY specific indentation!!
   page-footer: 

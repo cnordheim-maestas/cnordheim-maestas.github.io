@@ -28,6 +28,41 @@
     "text": "Education\nB.S. Biology, The University of Tampa (2015)\nPh.D. Ecology, Evolution & Marine Biology, UC Santa Barbara (2021 - Present)"
   },
   {
+    "objectID": "blog/2023-10-23-my-first-post/index.html",
+    "href": "blog/2023-10-23-my-first-post/index.html",
+    "title": "My first blog post",
+    "section": "",
+    "text": "I learned how to make citations in a blog; my most recent publication was (McMahon et al. 2023)."
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html#this-is-my-first-section",
+    "href": "blog/2023-10-23-my-first-post/index.html#this-is-my-first-section",
+    "title": "My first blog post",
+    "section": "",
+    "text": "I learned how to make citations in a blog; my most recent publication was (McMahon et al. 2023)."
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html#this-is-my-second-section",
+    "href": "blog/2023-10-23-my-first-post/index.html#this-is-my-second-section",
+    "title": "My first blog post",
+    "section": "This is my second section",
+    "text": "This is my second section\nText1 will go here! More info will go here!2"
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html#footnotes",
+    "href": "blog/2023-10-23-my-first-post/index.html#footnotes",
+    "title": "My first blog post",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is my first footnote↩︎\nThis is an inline footnote here↩︎"
+  },
+  {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My first blog post\n\n\n\n\n\n\n\nQuarto\n\n\nMEDS\n\n\nWorkshop\n\n\n\n\nPlaying with making a blog on a Quarto website\n\n\n\n\n\n\nOct 23, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "Mentoring.html",
     "href": "Mentoring.html",
     "title": "Mentoring Experience",

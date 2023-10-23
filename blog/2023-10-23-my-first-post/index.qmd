@@ -1,0 +1,29 @@
+---
+title: "My first blog post"
+description: "Playing with making a blog on a Quarto website"
+author: 
+- name: Caitlin Nordheim-Maestas
+  url: https://cnordheim-maestas.github.io/
+  orcid: 0000-0002-9786-060X
+  affiliation: MEDS coursework at UC Santa Barbara
+  affiliation-url: https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds
+date: 10-23-2023
+categories: [Quarto, MEDS, Workshop]
+bibliography: references.bib
+citation:
+  url: https://cnordheim-maestas.github.io/blog/2023-10-23-my-first-post/
+image: IMG_6416.jpeg
+draft: false
+---
+
+## This is my first section
+
+I learned how to make citations in a blog; my most recent publication was [@mcmahon2023].
+
+## This is my second section
+
+Text[^1] will go here! More info will go here![^2]
+
+[^1]: This is my first footnote
+
+[^2]: This is an inline footnote here
