@@ -4,54 +4,84 @@ title: "Mentoring Experience"
 
 ## Undergraduate Mentee Independent Research Projects
 
-------------------------------------------------------------------------
+::: {layout-ncol="2"}
+![](images/elizabeth.jpeg){fig-align="center" width="6cm"}
 
-::: {layout-ncol=2}
+![](images/kathryn.jpeg){fig-align="center" width="6cm"}
+:::
+
+::: {layout-ncol="2"}
 #### Investigation of Water Storage and Filtration Methods on eDNA Detection of Bd in Water
 
-- Elizabeth Bodenhamer - Senior Thesis
-- UC Santa Barbara 2023
-- UCSB Undergraduate Research & Creative Activities Fellow
+-   Elizabeth Bodenhamer - Senior Thesis
+-   UC Santa Barbara 2023
+-   UCSB Undergraduate Research & Creative Activities Fellow
 
 #### The Effects of Soil Storage Method and Duration on Detection of Bd eDNA in Soil
 
-- Kathryn Koo - Senior Thesis
-- UC Santa Barbara 2023
-- UCSB Undergraduate Research & Creative Activities Fellow
+-   Kathryn Koo - Senior Thesis
+-   UC Santa Barbara 2023
+-   UCSB Undergraduate Research & Creative Activities Fellow
+:::
 
+::: {layout-ncol="2"}
+![](images/rachel.jpeg){fig-align="center" width="6cm"}
+
+![](images/sammi.jpeg){fig-align="center" width="6cm"}
+:::
+
+::: {layout-ncol="2"}
 #### Determination of Traits That Predict the Ability of Invertebrates to Host and Transmit Bd
 
-- Rachel Leowy - Senior Thesis
-- UC Santa Barbara 2023
-- UCSB Worster Fellow & UCSB Undergraduate Research & Creative Activities Fellow
+-   Rachel Leowy - Senior Thesis
+-   UC Santa Barbara 2023
+-   UCSB Worster Fellow & UCSB Undergraduate Research & Creative Activities Fellow
 
 #### Exploration of Bd Loads in Internal Macroinvertebrate Tissues Across Taxa
 
-- Sammi Yeung - Senior Thesis
-- UC Santa Barbara 2023
+-   Sammi Yeung - Senior Thesis
+-   UC Santa Barbara 2023
+:::
 
+
+::: {layout-ncol="2"}
+![](images/nuzha.jpeg){fig-align="center" width="6cm"}
+
+![](images/pymatuning.jpeg){fig-align="center" width="6cm"}
+:::
+
+::: {layout-ncol="2"}
 #### Assessing the impact of elevated temperatures associated with urbanization on Bd consumption by Daphnia
 
-- Nuzha Baksh - Senior Thesis
-- UC Santa Barbara 2022
-- UCSB Schmidt Fellow & UCSB Gene & Susan Lucas Fellow
+-   Nuzha Baksh - Senior Thesis
+-   UC Santa Barbara 2022
+-   UCSB Schmidt Fellow & UCSB Gene & Susan Lucas Fellow
 
 #### eDNA Analysis of Bd Presence and Prevalence Across Seasonal and Temperature Variation
 
-- Miranda Kosowsky - Senior Thesis
-- University of Pittsburgh 2021
+-   Miranda Kosowsky - Senior Thesis
+-   University of Pittsburgh 2021
+:::
 
+::: {layout-ncol="2"}
+![](images/madeline.jpeg){fig-align="center" width="6cm"}
+
+![](images/lily.png){fig-align="center" width="6cm"}
+:::
+
+::: {layout-ncol="2"}
 #### Color Analysis of Strawberry Poison Dart Frog, Oophaga Pumilio
 
-- Madeline Bush - Internship Project
-- University of Pittsburgh 2021
+-   Madeline Bush - Internship Project
+-   University of Pittsburgh 2021
 
 #### Eye Size Reflects Habitat and Sex in Tarantulas
 
-- Lily Turri - AP Biology Capstone
-- Allderdice High School 2021
-- Principal Mentor: [Dr. Sebastian Echeverri](https://www.spiderdaynightlive.com/)
+-   Lily Turri - AP Biology Capstone
+-   Allderdice High School 2021
+-   Principal Mentor: [Dr. Sebastian Echeverri](https://www.spiderdaynightlive.com/)
 :::
+
 
 ## Mentees
 
@@ -80,14 +110,14 @@ title: "Mentoring Experience"
 
 ------------------------------------------------------------------------
 
--   May 2023 UC Santa Barbara UC Santa Barbara Undergraduate Research and Creative Activities Conference Panel: "Investigation into the effects of storage method and duration on detection of pathogenic Batrachochytrium dendrobatidis (Bd) environmental DNA (eDNA)" K.Koo, C.L. Nordheim, T.S. Katz, R. Chen, and C.J. Briggs.
--   May 2023 UC Santa Barbara Undergraduate Research and Creative Activities Poster Colloquim: "The Effects of Storage and Filtration Methods on eDNA Detection of Batrachochytrium dendrobatidis in Water" E. Bodenhamer, C.L. Nordheim, T.S. Katz and C.J. Briggs.
--   May 2023 UC Santa Barbara UC Santa Barbara Undergraduate Research and Creative Activities Poster Colloquim: "Elucidating the Ability of Invertebrates to Host and Shed Batrachochytrium dendrobatidis (Bd)" R. Loewy, C.L. Nordheim, and C.J. Briggs.
--   April 2023 UC Santa Barbara Ecology, Evolution, and Marine Biology Undergraduate Research Conference: "The Effects of Storage and Filtration Methods on eDNA Detection of Batrachochytrium dendrobatidis in Water" E. Bodenhamer, C.L. Nordheim, T.S. Katz and C.J. Briggs.
--   April 2023 UC Santa Barbara Ecology, Evolution, and Marine Biology Undergraduate Research Conference: "Investigation into the effects of storage method and duration on detection of pathogenic Batrachochytrium dendrobatidis (Bd) environmental DNA (eDNA)" K.Koo, C.L. Nordheim, T.S. Katz, R. Chen, and C.J. Briggs.
--   April 2023 UC Santa Barbara Ecology, Evolution, and Marine Biology Undergraduate Research Conference: "Macroinvertebrates as Potential Bd Reservoirs" S. Yeung, C.L. Nordheim, and C.J. Briggs.
--   April 2022 UC Santa Barbara Ecology, Evolution, and Marine Biology Undergraduate Research Conference: "Effects of elevated temperatures associated with urbanization on the Bd-zoospore grazing ability of Daphnia magna" N.N. Baksh, C.L. Nordheim, and C.J. Briggs.
--   July 2021 American Arachnological Society Meeting: "Eye Size Reflects Habitat and Sex in Tarantulas" L.E.Turri, C.L. Nordheim, S. Foley, and S.A. Echeverri. [Link to talk on YouTube](https://www.youtube.com/watch?v=oX3EpSX63d0)
+-   May 2023 UC Santa Barbara UC Santa Barbara Undergraduate Research and Creative Activities Conference Panel: "Investigation into the effects of storage method and duration on detection of pathogenic Batrachochytrium dendrobatidis (Bd) environmental DNA (eDNA)" K.Koo, **C.L. Nordheim**, T.S. Katz, R. Chen, and C.J. Briggs.
+-   May 2023 UC Santa Barbara Undergraduate Research and Creative Activities Poster Colloquim: "The Effects of Storage and Filtration Methods on eDNA Detection of Batrachochytrium dendrobatidis in Water" E. Bodenhamer, **C.L. Nordheim**, T.S. Katz and C.J. Briggs.
+-   May 2023 UC Santa Barbara UC Santa Barbara Undergraduate Research and Creative Activities Poster Colloquim: "Elucidating the Ability of Invertebrates to Host and Shed Batrachochytrium dendrobatidis (Bd)" R. Loewy, **C.L. Nordheim**, and C.J. Briggs.
+-   April 2023 UC Santa Barbara Ecology, Evolution, and Marine Biology Undergraduate Research Conference: "The Effects of Storage and Filtration Methods on eDNA Detection of Batrachochytrium dendrobatidis in Water" E. Bodenhamer, **C.L. Nordheim**, T.S. Katz and C.J. Briggs.
+-   April 2023 UC Santa Barbara Ecology, Evolution, and Marine Biology Undergraduate Research Conference: "Investigation into the effects of storage method and duration on detection of pathogenic Batrachochytrium dendrobatidis (Bd) environmental DNA (eDNA)" K.Koo, **C.L. Nordheim**, T.S. Katz, R. Chen, and C.J. Briggs.
+-   April 2023 UC Santa Barbara Ecology, Evolution, and Marine Biology Undergraduate Research Conference: "Macroinvertebrates as Potential Bd Reservoirs" S. Yeung, **C.L. Nordheim**, and C.J. Briggs.
+-   April 2022 UC Santa Barbara Ecology, Evolution, and Marine Biology Undergraduate Research Conference: "Effects of elevated temperatures associated with urbanization on the Bd-zoospore grazing ability of Daphnia magna" N.N. Baksh, **C.L. Nordheim**, and C.J. Briggs.
+-   July 2021 American Arachnological Society Meeting: "Eye Size Reflects Habitat and Sex in Tarantulas" L.E.Turri, **C.L. Nordheim**, S. Foley, and S.A. Echeverri. [Link to talk on YouTube](https://www.youtube.com/watch?v=oX3EpSX63d0)
 
 ## Mentee Research Fellowships
 
