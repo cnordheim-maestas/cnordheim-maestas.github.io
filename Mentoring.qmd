@@ -6,13 +6,14 @@ title: "Mentoring Experience"
 
 ------------------------------------------------------------------------
 
-#### The Effects of Storage and Filtration Methods on eDNA Detection of Bd in Water
+::: {layout-ncol=2}
+#### Investigation of Water Storage and Filtration Methods on eDNA Detection of Bd in Water
 
 - Elizabeth Bodenhamer - Senior Thesis
 - UC Santa Barbara 2023
 - UCSB Undergraduate Research & Creative Activities Fellow
 
-#### The Effects of Storage Method and Duration on Detection of Bd eDNA in Soil
+#### The Effects of Soil Storage Method and Duration on Detection of Bd eDNA in Soil
 
 - Kathryn Koo - Senior Thesis
 - UC Santa Barbara 2023
@@ -50,6 +51,7 @@ title: "Mentoring Experience"
 - Lily Turri - AP Biology Capstone
 - Allderdice High School 2021
 - Principal Mentor: [Dr. Sebastian Echeverri](https://www.spiderdaynightlive.com/)
+:::
 
 ## Mentees
 
