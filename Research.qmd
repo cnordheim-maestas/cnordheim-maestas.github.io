@@ -2,7 +2,9 @@
 title: "Research"
 ---
 
-## Doctoral Research - UC Santa Barbara
+## Research Experience
+
+### Doctoral Research - UC Santa Barbara
 
 #### Amphibian Disease Ecology
 ::: {layout-ncol="4"}
@@ -16,7 +18,7 @@ title: "Research"
 :::
 I am interested in the roles of reservoir hosts in wildlife disease transmission and persistence and how environmental stressors may impact these roles. My current doctoral work in the [Briggs Lab](https://briggslab.eemb.ucsb.edu/) includes studying the environmental persistence and potential reservoir hosts of Bd *(Batrachochytrium dendrobatidis)*, a fungus responsible for a catastrophic amphibian disease, in California. Please see the [Mentorship tab](https://cnordheim-maestas.github.io/Mentoring.html) for undergraduate mentee-led related research projects.
 
-## Research - University of Pittsburgh
+### Research - University of Pittsburgh
 
 #### Amphibian Disease Ecology
 ::: {layout-ncol="4"}
@@ -31,7 +33,7 @@ I am interested in the roles of reservoir hosts in wildlife disease transmission
 
 I worked as a lab manager and technician in the [Richards-Zawacki](https://www.rzlab.pitt.edu/) at the University of Pittsburgh between 2019-2021. Here, I participated in collaborative research on temperature and climate impact the ecology and evolution of Bd-Host interactions across the U.S., and various research on the coloration of Panamanian Strawberry Poison Dart Frogs. Please see the [Mentorship tab](https://cnordheim-maestas.github.io/Mentoring.html) for undergraduate mentee-led related research projects. ​
 
-## Undergraduate Research - University of Tampa
+### Undergraduate Research - University of Tampa
 
 #### Amphibian Disease Ecology
 ::: {layout-ncol="4"}
@@ -46,7 +48,7 @@ I worked as a lab manager and technician in the [Richards-Zawacki](https://www.r
 
 I conducted research on a wide variety of projects relating to Bd (Batrachochytrium dendrobatidis) over my four years as an undergraduate researcher in the [McMahon conservation disease ecology lab](https://www.instagram.com/mcmahon_lab/?hl=en) at the University of Tampa. This work encompassed examining the impacts of Bd on crayfish respiration, whether snails and algae are viable hosts of Bd, developing and testing Bd-vaccines on frogs, and more!
 
-## Undergraduate Research - Arizona State University & UTampa
+### Undergraduate Research - Arizona State University & UTampa
 
 #### Urban Ecology of Lizard Communities
 ::: {layout-ncol="4"}
@@ -59,3 +61,5 @@ I conducted research on a wide variety of projects relating to Bd (Batrachochytr
 ![](images/whiptail.jpeg){fig-align="center" width="6cm"}
 :::
 I studied how urbanization impacted amphibian and reptile communities during my summer research experience for undergraduates in the [Bateman Lab](https://hbateman.faculty.asu.edu/) at Arizona State University in collaboration with the NSF Central Arizona-Phoenix Long Term Ecological Research Center and the [Froeschke Spatial Ecology Lab](https://www.ut.edu/directory/froeschke-bridgette) at the University of Tampa.
+
+

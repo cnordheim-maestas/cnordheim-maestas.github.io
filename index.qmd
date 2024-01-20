@@ -6,6 +6,7 @@ navbar:
     - href: index.qmd
     - href: Research.qmd
     - href: Mentoring.qmd
+    - href: Publications.qmd
     
 toc: false
 about:
