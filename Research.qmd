@@ -67,20 +67,3 @@ I conducted research on a wide variety of projects relating to Bd (Batrachochytr
 :::
 
 I studied how urbanization impacted amphibian and reptile communities during my summer research experience for undergraduates in the [Bateman Lab](https://hbateman.faculty.asu.edu/) at Arizona State University in collaboration with the NSF Central Arizona-Phoenix Long Term Ecological Research Center and the [Froeschke Spatial Ecology Lab](https://www.ut.edu/directory/froeschke-bridgette) at the University of Tampa.
-
-## Publications
-
-##### Please see my [Google Scholar profile](https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en) for the most up-to-date publication list
-
-
--   M.P. Heard, **C.L. Nordheim**, C. McKinley, Z.L. Zilz, V.A. Jones, B.A. Vincent, and E.M. Caves. 2023. Excluded Identity Retention in STEM: A Roadmap for Inclusive Undergraduate Research Symposia. [*Oceanography*]{.underline}: 36(4). <https://doi.org/10.5670/oceanog.2024.116>
-
--   T.A. McMahon, **C.L. Nordheim**, S.E. Detmering, P.T.J. Johnson, J.R. Rohr, and D. Civitello. 2023. *Pseudacris regilla* metamorphs acquire resistance to a deadly pathogen after exposure to the killed fungus. [*Diseases of Aquatic Organisms*]{.underline}: 155:193-198. <https://doi.org/10.3354/dao03753>
-
--   **C.L. Nordheim**, S.E. Detmering, D. Civitello, P.T.J. Johnson, J.R. Rohr, and T.A. McMahon. 2022. Metabolites from the fungal pathogen *Batrachochytrium dendrobatidis* (Bd) reduce Bd load in Cuban treefrog tadpoles. [*Journal of Applied Ecology*]{.underline}: 59, 2398--2403. <https://doi.org/10.1111/1365-2664.14242>
-
--   M. Wilber, M. Ohmer, K. Altman, L. Brannelly, V. Saenz-Calderon, E. LeSage, B. LaBumbard, N. McDonnell, Muñiz-Torres, **C.L. Nordheim**, F. Pfab, C.L. Richards-Zawacki, L.A Rollins-Smith, D. Wetzel, D. Woodhams, and C.J. Briggs. 2022. Once a reservoir, always a reservoir? Seasonality affects the pathogen maintenance potential of amphibian hosts. [*Ecology*]{.underline}: 103(9): e3759 <https://doi.org/10.1002/ecy.3759>
-
--   **C.L. Nordheim**, J.M. Grim, and T.A. McMahon. 2021. *Batrachochytrium dendrobatidis* (Bd) Exposure Damages Gill Tissue and Inhibits Crayfish Mass-Specific Metabolic Rate. [*Diseases of Aquatic Organisms*]{.underline}: 146: 67--73. <https://doi.org/10.3354/dao03623>
-
--   T.A. McMahon, **C.L. Nordheim**, and D.M. Prokopiak. 2021. Freshwater Snails and the Green Algae Cladophora are Likely Not Hosts of *Batrachochytrium dendrobatidis*. [*Freshwater Biology*]{.underline}: 66: 582-- 586. <https://doi.org/10.1111/fwb.13662>
