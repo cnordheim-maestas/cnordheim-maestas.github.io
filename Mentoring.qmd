@@ -43,7 +43,6 @@ title: "Mentoring Experience"
 -   UC Santa Barbara 2023
 :::
 
-
 ::: {layout-ncol="2"}
 ![](images/nuzha.jpeg){fig-align="center" width="6cm"}
 
@@ -82,7 +81,6 @@ title: "Mentoring Experience"
 -   Principal Mentor: [Dr. Sebastian Echeverri](https://www.spiderdaynightlive.com/)
 :::
 
-
 ## Mentees
 
 ------------------------------------------------------------------------
@@ -92,11 +90,11 @@ title: "Mentoring Experience"
 -   Janna Ellman - UC Santa Barbara 2023 - Present
 -   Emily Nix - UC Santa Barbara 2023 - Present
 -   Jasmine Tesoro - UC Santa Barbara 2023 - Present
--   Elizabeth Bodenhamer- UC Santa Barbara 2022 - 2023
+-   Elizabeth Bodenhamer- UC Santa Barbara 2022 - Present
+-   [Hope Hahn](https://h-hahn.github.io/) - UC Santa Barbara 2022 - Present
 -   Sammi Yeung - UC Santa Barbara 2022 - 2023
 -   Kathryn Koo - UC Santa Barbara 2022 - 2023
 -   Rachel Leowy - UC Santa Barbara 2022 - 2023
--   Hope Hahn - UC Santa Barbara 2022 - 2023
 -   Nuzha Baksh - UC Santa Barbara 2021 - 2022
 -   Leann Hagen - UC Santa Barbara Fall 2021
 -   Sarah Boyle - UC Santa Barbara Summer 2021
