@@ -2,9 +2,8 @@
 title: "Publications"
 ---
 
-##### Please see my [Google Scholar profile](https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en) for the most up-to-date publication list
+*Please see my [Google Scholar profile](https://scholar.google.com/citations?user=jV3Mol8AAAAJ&hl=en) for the most up-to-date publication list*
 
-## Publication List
 
 -   M.P. Heard, **C.L. Nordheim**, C. McKinley, Z.L. Zilz, V.A. Jones, B.A. Vincent, and E.M. Caves. 2023. Excluded Identity Retention in STEM: A Roadmap for Inclusive Undergraduate Research Symposia. [*Oceanography*]{.underline}: 36(4). <https://doi.org/10.5670/oceanog.2024.116>
 

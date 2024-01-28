@@ -20,7 +20,7 @@ about:
       icon: envelope
 ---
 
-## Hello! 
+## About Me
 
 I'm Caitlin Nordheim-Maestas! I'm a third-year Ph.D. student who is especially passionate about wildlife conservation, disease ecology, and undergraduate research mentorship. 
 
