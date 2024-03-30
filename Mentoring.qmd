@@ -5,6 +5,26 @@ title: "Mentoring Experience"
 ## Undergraduate Mentee Independent Research Projects
 
 ::: {layout-ncol="2"}
+![](images/west-pond-springtime.jpeg){fig-align="center" width="6cm"}
+
+![](images/bugs-in-falcon.jpeg){fig-align="center" width="6cm"}
+:::
+
+::: {layout-ncol="2"}
+#### Optimizing two different water filtration techniques for environmental DNA detection of frog-killing pathogen
+
+-   Emily Nix - Senior Thesis
+-   UC Santa Barbara 2024
+-   UCSB Undergraduate Research & Creative Activities Fellow
+
+#### Investigating the Roles of Amphipods, a Pond-Dwelling Invertebrate, and Water Temperature in Amphibian Disease
+
+-   Jasmine Tesoro - Senior Thesis
+-   UC Santa Barbara 2024
+-   UCSB Undergraduate Research & Creative Activities Fellow
+:::
+
+::: {layout-ncol="2"}
 ![](images/elizabeth.jpeg){fig-align="center" width="6cm"}
 
 ![](images/kathryn.jpeg){fig-align="center" width="6cm"}
