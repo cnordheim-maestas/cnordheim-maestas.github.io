@@ -1,5 +1,5 @@
 ---
-title: "Mentoring Experience"
+title: "Research Mentorship"
 ---
 
 ## Undergraduate Mentee Independent Research Projects
@@ -111,17 +111,17 @@ title: "Mentoring Experience"
 -   Emily Nix - UC Santa Barbara 2023 - Present
 -   Jasmine Tesoro - UC Santa Barbara 2023 - Present
 -   Elizabeth Bodenhamer- UC Santa Barbara 2022 - Present
--   Hope Hahn ([website](https://h-hahn.github.io/)) - UC Santa Barbara 2022 - Present
+-   [Hope Hahn](https://h-hahn.github.io/) - UC Santa Barbara 2022 - Present
 -   Sammi Yeung - UC Santa Barbara 2022 - 2023
 -   Kathryn Koo - UC Santa Barbara 2022 - 2023
 -   Rachel Leowy - UC Santa Barbara 2022 - 2023
--   Nuzha Baksh - UC Santa Barbara 2021 - 2022
+-   [Nuzha Baksh](https://www.tarvinlab.org/lab-technicians) - UC Santa Barbara 2021 - 2022
 -   Leann Hagen - UC Santa Barbara Fall 2021
--   Sarah Boyle - UC Santa Barbara Summer 2021
+-   [Sarah Boyle](https://web.stanford.edu/group/brunet/personal%20interests.html) - UC Santa Barbara Summer 2021
 -   Lily Turri - University of Pittsburgh 2020 - 2021
 -   Madeline Bush - University of Pittsburgh 2020 - 2021
 -   Anna Meinzen - University of Pittsburgh 2020 - 2021
--   Miranda Kosowsky - University of Pittsburgh 2020 - 2021
+-   [Miranda Kosowsky](https://www.rzlab.pitt.edu/?page_id=1722) - University of Pittsburgh 2020 - 2021
 -   Joshua Hickman - University of Pittsburgh 2019 - 2020
 
 ## Mentee Presentations
@@ -150,12 +150,12 @@ title: "Mentoring Experience"
 
 ------------------------------------------------------------------------
 
--   UCSB URCA Research Grant - Jasmine Tesoro 2023
--   UCSB URCA Research Grant - Emily Nix 2023
--   UCSB Schmidt Fellowship - Olivia Schroeder 2023
--   UCSB Schmidt Fellowship - Janna Ellman 2023
--   UCSB URCA Research Grant - Elizabeth Bodenhamer 2022
--   UCSB URCA Research Grant - Rachel Loewy 2022
--   UCSB URCA Research Grant - Kathryn Koo 2022
--   UCSB Worster Summer Research Fellowship - Rachel Loewy 2022
--   UCSB Schmidt Fellowship - Nuzha Baksh 2021
+-   UCSB [URCA Research Grant](https://urca.ucsb.edu/urca-grant/overview) - Jasmine Tesoro 2023
+-   UCSB [URCA Research Grant](https://urca.ucsb.edu/urca-grant/overview) - Emily Nix 2023
+-   UCSB [Schmidt Fellowship](https://gradpost.ucsb.edu/blog/money/2020/05/05/schmidt-family-foundation-ucsb-graduate-division-environmental-science-research-awards) - Olivia Schroeder 2023
+-   UCSB [Schmidt Fellowship](https://gradpost.ucsb.edu/blog/money/2020/05/05/schmidt-family-foundation-ucsb-graduate-division-environmental-science-research-awards) - Janna Ellman 2023
+-   UCSB [URCA Research Grant](https://urca.ucsb.edu/urca-grant/overview) - Elizabeth Bodenhamer 2022
+-   UCSB [URCA Research Grant](https://urca.ucsb.edu/urca-grant/overview) - Rachel Loewy 2022
+-   UCSB [URCA Research Grant](https://urca.ucsb.edu/urca-grant/overview) - Kathryn Koo 2022
+-   UCSB [Worster Summer Research Fellowship](https://worster-awards.eemb.ucsb.edu/)- Rachel Loewy 2022
+-   UCSB [Schmidt Fellowship](https://gradpost.ucsb.edu/blog/money/2020/05/05/schmidt-family-foundation-ucsb-graduate-division-environmental-science-research-awards) - Nuzha Baksh 2021

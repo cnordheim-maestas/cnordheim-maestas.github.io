@@ -15,6 +15,8 @@ website:
       - href: Research.qmd
       - href: Mentoring.qmd
         text: Mentorship
+      - href: Teaching.qmd
+        text: Teaching
       - href: Publications.qmd
         text: Publications
       - href: Blog.qmd
