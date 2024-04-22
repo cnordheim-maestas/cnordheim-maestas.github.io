@@ -105,14 +105,14 @@ title: "Research Mentorship"
 
 ------------------------------------------------------------------------
 
--   Eva Howell - UC Santa Barbara 2023 - Present
--   Olivia Schroeder- UC Santa Barbara 2023 - Present
--   Janna Ellman - UC Santa Barbara 2023 - Present
--   Emily Nix - UC Santa Barbara 2023 - Present
--   Jasmine Tesoro - UC Santa Barbara 2023 - Present
--   Elizabeth Bodenhamer- UC Santa Barbara 2022 - Present
+-   [Eva Howell](https://briggslab.eemb.ucsb.edu/people/eva-howell) - UC Santa Barbara 2023 - Present
+-   [Olivia Schroeder](https://briggslab.eemb.ucsb.edu/people/olivia-schroeder)- UC Santa Barbara 2023 - Present
+-   [Janna Ellman](https://briggslab.eemb.ucsb.edu/people/janna-ellman) - UC Santa Barbara 2023 - Present
+-   [Emily Nix](https://briggslab.eemb.ucsb.edu/people/emily-nix) - UC Santa Barbara 2023 - Present
+-   [Jasmine Tesoro](https://briggslab.eemb.ucsb.edu/people/jasmine-tesoro) - UC Santa Barbara 2023 - Present
+-   [Elizabeth Bodenhamer](https://briggslab.eemb.ucsb.edu/people/elizabeth-bodenhamer)- UC Santa Barbara 2022 - Present
 -   [Hope Hahn](https://h-hahn.github.io/) - UC Santa Barbara 2022 - Present
--   Sammi Yeung - UC Santa Barbara 2022 - 2023
+-   [Sammi Yeung](https://briggslab.eemb.ucsb.edu/people/sammi-yeung) - UC Santa Barbara 2022 - 2023
 -   [Kathryn Koo](https://briggslab.eemb.ucsb.edu/people/kathryn-koo) - UC Santa Barbara 2022 - 2023
 -   Rachel Leowy - UC Santa Barbara 2022 - 2023
 -   [Nuzha Baksh](https://www.tarvinlab.org/lab-technicians) - UC Santa Barbara 2021 - 2022
