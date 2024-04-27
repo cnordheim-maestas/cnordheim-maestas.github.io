@@ -105,6 +105,8 @@ title: "Research Mentorship"
 
 ------------------------------------------------------------------------
 
+Current Mentees:
+
 -   [Eva Howell](https://briggslab.eemb.ucsb.edu/people/eva-howell) - UC Santa Barbara 2023 - Present
 -   [Olivia Schroeder](https://briggslab.eemb.ucsb.edu/people/olivia-schroeder)- UC Santa Barbara 2023 - Present
 -   [Janna Ellman](https://briggslab.eemb.ucsb.edu/people/janna-ellman) - UC Santa Barbara 2023 - Present
@@ -112,6 +114,9 @@ title: "Research Mentorship"
 -   [Jasmine Tesoro](https://briggslab.eemb.ucsb.edu/people/jasmine-tesoro) - UC Santa Barbara 2023 - Present
 -   [Elizabeth Bodenhamer](https://briggslab.eemb.ucsb.edu/people/elizabeth-bodenhamer)- UC Santa Barbara 2022 - Present
 -   [Hope Hahn](https://h-hahn.github.io/) - UC Santa Barbara 2022 - Present
+
+Previous Mentees:
+
 -   [Sammi Yeung](https://briggslab.eemb.ucsb.edu/people/sammi-yeung) - UC Santa Barbara 2022 - 2023
 -   [Kathryn Koo](https://briggslab.eemb.ucsb.edu/people/kathryn-koo) - UC Santa Barbara 2022 - 2023
 -   Rachel Leowy - UC Santa Barbara 2022 - 2023

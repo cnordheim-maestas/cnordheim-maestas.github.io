@@ -1,35 +1,147 @@
 ---
 title: "Scientific Outreach & Academic Service"
+editor: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
 ---
 
-•	UCSB EEMB Undergraduate Research Symposium Planning Committee – 2021-Present
-o	General Member: 2024 Symposium
-o	President: 2023 Symposium
-o	Treasurer: 2022 Symposium
+## UCSB EEMB Undergraduate Research Symposium Planning Committee
 
-add in SEEDS Abstract workshop and link to blog posts about prepping a talk and making a poster when I make them. 
+::: columns
+::: {.column width="20%"}
+![](images/URS_sticker_2024_whitebg.png)
+:::
 
-Link to website, link to publication, list invited talks
+::: {.column width="80%"}
+I am so proud to be one of the founding members of the [UC Santa
+Barbara's Ecology, Evolution, and Marine Biology's Annual Undergraduate
+Research Symposium](https://undergrad-symposium.eemb.ucsb.edu/)
+(EEMB-URS, pronounced "embers").
 
-•	Science by the Pint Speaker – 2022 & 2023
+Since it's start in 2021, this symposium has grown and developed so
+much, and I love seeing the undergraduate research community come
+together to celebrate their work, build connections, and develop
+critical skills in science communication.
+:::
+:::
 
-BUHS WRCC talk
+#### Publication
 
-CEC career panel
-•	UC California Ecology and Conservation Course Research and Career Panel Presenter – 2023
-•	UC California Ecology and Conservation Course Research and Career Panel Presenter – 2021
+In 2023, we published a roadmap to creating undergraduate research
+symposia, and conducted a study on how our symposium may increase the
+retention of students of Excluded Identities in STEM, in the journal
+*Oceanography* [@universityofcaliforniasantabarbara2023]. Our resources
+for building an undergraduate research symposium can be found on this
+github link: <https://github.com/madisonheard1/EEMBURS>. Here, you can
+find our comprehensive handbook on how to build a symposium, survey
+questions (developed with the UCSB IRB), presentation judging rubrics,
+resources for students on abstract writing, and more!
 
-UCSB Academic service
-•	UCSB EEMB Graduate Mentorship Program Mentor – 2022-Present
-•	UCSB EEMB Graduate Student Advisory Council (GSAC) 2021-2023
-o	Outreach Subcommittee Member: 2021-2023
-•	UCSB EEMB Graduate Research Symposium Planning Committee – 2022-2023
-o	Treasurer: 2023 Symposium
-o	General Member: 2022 Symposium
-•	UCSB EEMB Undergraduate Lab Open House Volunteer – 2022 & 2024
+#### Invited talks
 
+I am excited to share our resources, findings, and journey with others
+who are interested in creating similar symposia, and was honored to give
+invited talks at the UCSB Inclusive Teaching Symposium and UC Berkeley's
+Plant and Microbial Biology Department's Seminar. Please do not hesitate
+to reach out if you are interested in learning more about our symposium
+and resources!
 
-•	University of Pittsburgh Survivor Support Network Member – 2020 - 2021
-•	Pitt Biological Sciences SciTech Volunteer – 2020
-•	Tampa Middle School Science Fair Volunteer Judge – Spring 2019 
-•	University of Tampa PEACE Community Outreach Committee Member – 2015 
+-   UC Berkeley PMB Student & Post-Doc Seminar (2024): “Excluded
+    Identity Retention in STEM: A Roadmap for Inclusive Undergraduate
+    Research Symposia” **C.L. Nordheim-Maestas**, M.P. Heard, C.
+    McKinley, Z. Zilz, V.A. Jones, B.A. Vincent, and E.M. Caves
+
+-   UC Santa Barbara Inclusive Teaching Symposium (2024): “Excluded
+    Identity Retention in STEM: A Roadmap for Inclusive Undergraduate
+    Research Symposia” **C.L. Nordheim-Maestas**, Z. Zilz, M.P.
+    Heard, C. McKinley, V.A. Jones, B.A. Vincent, and E.M. Caves
+
+#### Committee roles:
+
+-   General Member: 2024 Symposium
+-   President: 2023 Symposium
+-   Treasurer: 2022 Symposium
+
+#### Resources for first-time presenters:
+
+-   Ecological Society of America’s Strategies for Ecology Education,
+    Diversity and Sustainability (SEEDS) UCSB Chapter Workshop
+    Coordinator and Presenter: “How to Write a Research Conference
+    Abstract” – 2024
+
+::: {layout-ncol="3"}
+![](images/EEMBURS_IMG_8757.jpeg){fig-align="center" width="6cm"}
+
+![](images/EEMBURS_IMG_5378.jpeg){fig-align="center" width="6cm"}
+
+![](images/EEMBURS_IMG_7240.jpeg){fig-align="center" width="6cm"}
+:::
+
+## Outreach Talks
+
+-   [Brattleboro Union High School & Windham Regional Career
+    Center](https://www.wrccvt.com/) Career Talk Presenter: “Exploring
+    the World of Amphibian Disease Ecology: A Career in Saving
+    Frogs” (2024) **C.L. Nordheim-Maestas**
+
+-   [UCSB FUERTE](https://fuerte.eemb.ucsb.edu/) - Field-based
+    Undergraduate Engagement through Research, Teaching, and Education
+    Program (Invited Talk): “Exploring the Hidden World of
+    Macroinvertebrates and the Frog-Killing Fungus” (2024) **C.L.
+    Nordheim-Maestas**
+
+-   Science by the Pint Outreach Talk: “Beyond the Pond: Exploring the
+    Role of Aquatic Bugs in Frog Disease Risk” (2024) **C.L.
+    Nordheim-Maestas** Draughtsman Aleworks
+
+-   [Sierra Nevada Aquatic Research
+    Laboratory](https://ucnrs.org/reserves/sierra-nevada-aquatic-research-laboratory/)
+    UC California Ecology and Conservation Course Research and Career
+    Panel Presenter (2023)
+
+-   Science by the Pint Outreach Talk: “Amphibian Disease: the
+    Not-So-Fun Fungus” (2023) **C.L. Nordheim** Draughtsman Aleworks
+
+-   Science by the Pint Outreach Talk: “Frog Vaccine Development” (2022)
+    **C.L. Nordheim** Night Lizard Brewing Co
+
+-   [Blue Oak Ranch
+    Reserve](https://ucnrs.org/reserves/blue-oak-ranch-reserve/) UC
+    California Ecology and Conservation Course Research and Career Panel
+    Presenter (2021)
+
+## UCSB Departmental Service Roles
+
+-   UCSB EEMB [Graduate Peer Mentorship
+    Program](https://www.eembdeiw.com/projects/peer-mentorship) Mentor –
+    2022-Present
+
+-   UCSB EEMB [Graduate Student Advisory
+    Committee](https://gsac.eemb.ucsb.edu/) (GSAC) 2021-2023
+
+-   UCSB EEMB [Graduate Research
+    Symposium](https://grad-symposium.eemb.ucsb.edu/) Planning Committee
+    – 2022 & 2023
+
+    -   Treasurer: 2023 Symposium
+
+    -   General Member: 2022 Symposium
+
+-   UCSB EEMB [Undergraduate Lab Open
+    House](https://gsac.eemb.ucsb.edu/news) Volunteer – 2022
+
+## University of Pittsburgh Outreach & Service
+
+-   University of Pittsburgh [Survivor Support
+    Network](https://www.diversity.pitt.edu/survivor-support-network)
+    Member – 2020 - 2021
+
+-   Carnegie Science Center
+    [SciTech](https://carnegiesciencecenter.org/groups-and-schools/scitech/)
+    Volunteer – 2020
+
+### References
+
+::: {#refs}
+:::
