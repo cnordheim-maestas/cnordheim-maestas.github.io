@@ -5,9 +5,9 @@ title: "Research Mentorship"
 ## Undergraduate Mentee Independent Research Projects
 
 ::: {layout-ncol="2"}
-![](images/west-pond-springtime.jpeg){fig-align="center" width="6cm"}
+![](images/west-pond-springtime.jpeg){fig-alt="pond on a sunny day surrounded by vegetation" fig-align="center" width="6cm"}
 
-![](images/bugs-in-falcon.jpeg){fig-align="center" width="6cm"}
+![](images/bugs-in-falcon.jpeg){fig-alt="hand folding a rack of falcon tubes outside" fig-align="center" width="6cm"}
 :::
 
 ::: {layout-ncol="2"}
@@ -25,9 +25,9 @@ title: "Research Mentorship"
 :::
 
 ::: {layout-ncol="2"}
-![](images/elizabeth.jpeg){fig-align="center" width="6cm"}
+![](images/elizabeth.jpeg){fig-alt="pacific chorus frog in the water calling" fig-align="center" width="6cm"}
 
-![](images/kathryn.jpeg){fig-align="center" width="6cm"}
+![](images/kathryn.jpeg){fig-alt="western toad sitting in the mud" fig-align="center" width="6cm"}
 :::
 
 ::: {layout-ncol="2"}
@@ -45,9 +45,9 @@ title: "Research Mentorship"
 :::
 
 ::: {layout-ncol="2"}
-![](images/rachel.jpeg){fig-align="center" width="6cm"}
+![](images/rachel.jpeg){fig-alt="aquatic bug (common name: backswimmer) popping its head out of a falcon tube" fig-align="center" width="6cm"}
 
-![](images/sammi.jpeg){fig-align="center" width="6cm"}
+![](images/sammi.jpeg){fig-alt="aquatic bug (common name: damselfly larva) in a tube" fig-align="center" width="6cm"}
 :::
 
 ::: {layout-ncol="2"}
@@ -64,9 +64,9 @@ title: "Research Mentorship"
 :::
 
 ::: {layout-ncol="2"}
-![](images/nuzha.jpeg){fig-align="center" width="6cm"}
+![](images/nuzha.jpeg){fig-alt="microscope image of a daphnia colored by florescent tagged Bd" fig-align="center" width="6cm"}
 
-![](images/pymatuning.jpeg){fig-align="center" width="6cm"}
+![](images/pymatuning.jpeg){fig-alt="wetland in western Pennsylvania with algae topped water and trees" fig-align="center" width="6cm"}
 :::
 
 ::: {layout-ncol="2"}
@@ -83,9 +83,9 @@ title: "Research Mentorship"
 :::
 
 ::: {layout-ncol="2"}
-![](images/madeline.jpeg){fig-align="center" width="6cm"}
+![](images/madeline.jpeg){fig-alt="red poison dart frog" fig-align="center" width="6cm"}
 
-![](images/lily.png){fig-align="center" width="6cm"}
+![](images/lily.png){fig-alt="spider on a white backgrount" fig-align="center" width="6cm"}
 :::
 
 ::: {layout-ncol="2"}
@@ -99,6 +99,7 @@ title: "Research Mentorship"
 -   Lily Turri - AP Biology Capstone
 -   Allderdice High School 2021
 -   Principal Mentor: [Dr. Sebastian Echeverri](https://www.spiderdaynightlive.com/)
+-   Image credit: S. Echeverri
 :::
 
 ## Mentees
