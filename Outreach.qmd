@@ -10,7 +10,7 @@ bibliography: references.bib
 
 ::: columns
 ::: {.column width="20%"}
-![](images/URS_sticker_2024_whitebg.png)
+![](images/URS_sticker_2024_whitebg.png){fig-alt="Logo for the EEMB-URS: a circle containing many animals and plants with the text EEMB URS 2024 at the top. Art by Bridget Vincent"}
 :::
 
 ::: {.column width="80%"}
@@ -71,11 +71,17 @@ and resources!
     Abstract” – 2024
 
 ::: {layout-ncol="3"}
-![](images/EEMBURS_IMG_8757.jpeg){fig-align="center" width="6cm"}
+![Poster session at 2022
+symposium](images/EEMBURS_IMG_8757.jpeg){fig-alt="Outdoor poster session with lots of people presenting and discussing"
+fig-align="center" width="6cm"}
 
-![](images/EEMBURS_IMG_5378.jpeg){fig-align="center" width="6cm"}
+![Opening remarks at 2024
+symposium](images/EEMBURS_IMG_5378.jpeg){fig-alt="Auditorium with person speaking and a slide of the eemb-urs projected"
+fig-align="center" width="6cm"}
 
-![](images/EEMBURS_IMG_7240.jpeg){fig-align="center" width="6cm"}
+![2023 Symposium planning
+committee](images/EEMBURS_IMG_7240.jpeg){fig-alt="eight graduate students standing next to each other looking proud"
+fig-align="center" width="6cm"}
 :::
 
 ## Outreach Talks
