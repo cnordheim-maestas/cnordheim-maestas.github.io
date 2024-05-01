@@ -7,6 +7,8 @@ editor:
 
 ## University of California, Santa Barbara
 
+-   Statistics for Environmental Science Teaching Assistant (ENVS 193DS, 2 sections, Spring 2024): graded assignments and exams, assisted in workshop sessions, assisted in class material preparation.
+
 -   Biometry Teaching Assistant (EEMB 146; 2 sections, Winter 2024): led
     computer labs, graded assignments, led final projects on independent
     data analysis.
