@@ -180,7 +180,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#intro" id="toc-intro" class="nav-link active" data-scroll-target="#intro">Intro</a></li>
+  <li><a href="#intro" id="toc-intro" class="nav-link active" data-scroll-target="#intro">Intro</a>
+  <ul class="collapse">
+  <li><a href="#finding-color-palettes" id="toc-finding-color-palettes" class="nav-link" data-scroll-target="#finding-color-palettes">Finding color palettes</a></li>
+  <li><a href="#data-attribution" id="toc-data-attribution" class="nav-link" data-scroll-target="#data-attribution">Data attribution</a></li>
+  </ul></li>
   <li><a href="#lets-get-coding" id="toc-lets-get-coding" class="nav-link" data-scroll-target="#lets-get-coding">Let’s get coding!</a>
   <ul class="collapse">
   <li><a href="#taylor-swift-album-covers" id="toc-taylor-swift-album-covers" class="nav-link" data-scroll-target="#taylor-swift-album-covers">Taylor Swift Album Covers</a></li>
@@ -197,8 +201,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="quarto-title">
 <h1 class="title">Color Palettes in R: Making R more fun!</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">data-vis</div>
-    <div class="quarto-category">Undergrad-researchers</div>
+    <div class="quarto-category">data-visualization</div>
   </div>
   </div>
 
@@ -233,8 +236,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="intro" class="level1">
 <h1>Intro</h1>
-<p>One thing that I’ve learned quickly as a Teaching Assistant and research mentor in statistics and data visualization is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, color customization of different ggplot objects, and other fun ways to add some sparkle to your data visualization.</p>
+<p>One thing that I’ve learned as a Teaching Assistant and research mentor in data visualization &amp; statistics is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, and other fun ways to add some sparkle to your data visualization.</p>
 <p>Note that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun.</p>
+<section id="finding-color-palettes" class="level2">
+<h2 class="anchored" data-anchor-id="finding-color-palettes">Finding color palettes</h2>
+<p>Here are a few resources for exploring color palettes:</p>
+<ul>
+<li><code>Paleteer</code> is a “comprehensive collection of color palettes in R using a common interface”, and contains <em>hundreds</em> of palettes, including the three I show here in this post. You can learn more about the package at the <i class="fa-brands fa-github" aria-label="github"></i> <a href="https://github.com/EmilHvitfeldt/paletteer">Emil Hvitfeldt Paleteer github repository</a> and <a href="https://pmassicotte.github.io/paletteer_gallery/">browse the palettes in this gallery</a>.</li>
+</ul>
+</section>
+<section id="data-attribution" class="level2">
+<h2 class="anchored" data-anchor-id="data-attribution">Data attribution</h2>
+<p>The base plots for this post are from the <code>lterdatasampler</code> package in R, you can learn more about this here: <a href="https://lter.github.io/lterdatasampler/">lterdatasampler</a>. I am using data from the Andrews Experimental Forest Long Term Ecological Research Station. I am plotting the weight (log-transformed to make the box plots clearer, in grams) of Giant Coastal Salamanders across study sites in the boxplots, and the length (in mm) and weight Giant Coastal Salamanders in the scatterplots here.</p>
+</section>
 </section>
 <section id="lets-get-coding" class="level1">
 <h1>Let’s get coding!</h1>

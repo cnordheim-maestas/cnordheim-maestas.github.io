@@ -6,7 +6,7 @@ author:
     url: https://cnordheim-maestas.github.io/
     # affiliation: Graduate student in Ecology, Evolution & Marine Biology Department at University of California, Santa Barbara
 date: 5-15-2023
-categories: [data-vis, Undergrad-researchers] # self-defined categories
+categories: [data-visualization] # self-defined categories
 # citation: 
 #   url: https://cnordheim-maestas.github.io//blog/fun-with-coloRs/ 
 image: IMG_8797.jpeg
@@ -19,9 +19,19 @@ format:
 
 # Intro
 
-One thing that I've learned quickly as a Teaching Assistant and research mentor in statistics and data visualization is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, color customization of different ggplot objects, and other fun ways to add some sparkle to your data visualization.
+One thing that I've learned as a Teaching Assistant and research mentor in data visualization & statistics is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, and other fun ways to add some sparkle to your data visualization.
 
 Note that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun.
+
+## Finding color palettes
+
+Here are a few resources for exploring color palettes:
+
+-   `Paleteer` is a  "comprehensive collection of color palettes in R using a common interface", and contains *hundreds* of palettes, including the three I show here in this post. You can learn more about the package at the {{< fa brands github >}} [Emil Hvitfeldt Paleteer github repository](https://github.com/EmilHvitfeldt/paletteer) and [browse the palettes in this gallery](https://pmassicotte.github.io/paletteer_gallery/).
+
+## Data attribution
+
+The base plots for this post are from the `lterdatasampler` package in R, you can learn more about this here: [lterdatasampler](https://lter.github.io/lterdatasampler/). I am using data from the Andrews Experimental Forest Long Term Ecological Research Station. I am plotting the weight (log-transformed to make the box plots clearer, in grams) of Giant Coastal Salamanders across study sites in the boxplots, and the length (in mm) and weight Giant Coastal Salamanders in the scatterplots here.
 
 # Let's get coding!
 
@@ -66,8 +76,7 @@ base_plot_twoboxes <- and_vertebrates %>%
 
 ## Taylor Swift Album Covers
 
-First, let's use the direct color palette package, you can learn more at the package's github:
-{{< fa brands github >}} [asteves tayloRswift github repository](https://github.com/asteves/tayloRswift)
+First, let's use the direct color palette package, you can learn more at the package's github: {{< fa brands github >}} [asteves tayloRswift github repository](https://github.com/asteves/tayloRswift)
 
 Important note: there are 2 functions: one for **fill**: `scale_fill_taylor` and one for **color**: `scale_color_taylor`
 
@@ -146,12 +155,8 @@ base_plot_scatter +
 
 ```
 
-
 # Resources
 
 -   Sam Csik's [color lecture](https://samanthacsik.github.io/EDS-240-data-viz/course-materials/week5.html) from her [Data Visualization & Communication course](https://samanthacsik.github.io/courses/eds-240-data-viz/) in the Masters of Environmental Data Science program at UC Santa Barbara.
 
 -   An Bui's Data Visualization Workshop from her [Stastics for Environmental Studies Course](https://an-bui.com/teaching/02_envs-193ds/) in the Environmental Studies program at UC Santa Barbara.
-
-
-

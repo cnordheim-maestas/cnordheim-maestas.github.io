@@ -123,7 +123,7 @@
     "href": "Blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Thomas Fire Analysis: AQI and False Color Image\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nColor Palettes in R: Making R more fun!\n\n\n\n\n\n\n\ndata-vis\n\n\nUndergrad-researchers\n\n\n\n\nA walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R\n\n\n\n\n\n\nMay 15, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\nNo matching items"
+    "text": "Thomas Fire Analysis: AQI and False Color Image\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nColor Palettes in R: Making R more fun!\n\n\n\n\n\n\n\ndata-visualization\n\n\n\n\nA walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R\n\n\n\n\n\n\nMay 15, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Research.html#amphibian-disease-ecology",
@@ -340,7 +340,7 @@
     "href": "blog/fun-with-coloRs/index.html",
     "title": "Color Palettes in R: Making R more fun!",
     "section": "",
-    "text": "One thing that I’ve learned quickly as a Teaching Assistant and research mentor in statistics and data visualization is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, color customization of different ggplot objects, and other fun ways to add some sparkle to your data visualization.\nNote that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun."
+    "text": "One thing that I’ve learned as a Teaching Assistant and research mentor in data visualization & statistics is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, and other fun ways to add some sparkle to your data visualization.\nNote that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun.\n\n\nHere are a few resources for exploring color palettes:\n\nPaleteer is a “comprehensive collection of color palettes in R using a common interface”, and contains hundreds of palettes, including the three I show here in this post. You can learn more about the package at the  Emil Hvitfeldt Paleteer github repository and browse the palettes in this gallery.\n\n\n\n\nThe base plots for this post are from the lterdatasampler package in R, you can learn more about this here: lterdatasampler. I am using data from the Andrews Experimental Forest Long Term Ecological Research Station. I am plotting the weight (log-transformed to make the box plots clearer, in grams) of Giant Coastal Salamanders across study sites in the boxplots, and the length (in mm) and weight Giant Coastal Salamanders in the scatterplots here."
   },
   {
     "objectID": "blog/fun-with-coloRs/index.html#load-libraries",
@@ -383,5 +383,19 @@
     "title": "Color Palettes in R: Making R more fun!",
     "section": "La Croix Colors",
     "text": "La Croix Colors\nYou can learn more at the package’s github:  johannesbjork LaCroixColoR github repository\n\n\nCode\n# Let's start with Pamplemousse\n\n# see the hex codes\npaletteer::paletteer_d(\"LaCroixColoR::Pamplemousse\")\n\n\n&lt;colors&gt;\n#EA7580FF #F6A1A5FF #F8CD9CFF #1BB6AFFF #088BBEFF #172869FF \n\n\nCode\nbase_plot +\n  paletteer::scale_fill_paletteer_d(\"LaCroixColoR::Pamplemousse\") + # NOTE: fill for the boxplot\n  ggtitle(\"La Criox Pamplemousse Palette from LaCroixColoR Package\") +\n  \n  # for fun, let's make the axes text the colors too\n  theme(axis.title = element_text(color = \"#172869FF\"),\n        axis.text = element_text(color = \"#EA7580FF\"))\n\n\n\n\n\nCode\n# Now let's do Lemon with a scatterplot\n\n# see the hex codes\npaletteer::paletteer_d(\"LaCroixColoR::Lemon\") \n\n\n&lt;colors&gt;\n#F7AA14FF #F5D000FF #F7E690FF #1BB6AFFF #088BBEFF #172869FF \n\n\nCode\nbase_plot_scatter +\n  paletteer::scale_color_paletteer_d(\"LaCroixColoR::Lemon\") + # NOTE: color for the points\n  ggtitle(\"La Criox Lemon Palette from LaCroixColoR Package\")"
+  },
+  {
+    "objectID": "blog/fun-with-coloRs/index.html#finding-color-palettes",
+    "href": "blog/fun-with-coloRs/index.html#finding-color-palettes",
+    "title": "Color Palettes in R: Making R more fun!",
+    "section": "",
+    "text": "Here are a few resources for exploring color palettes:\n\nPaleteer is a “comprehensive collection of color palettes in R using a common interface”, and contains hundreds of palettes, including the three I show here in this post. You can learn more about the package at the  Emil Hvitfeldt Paleteer github repository and browse the palettes in this gallery."
+  },
+  {
+    "objectID": "blog/fun-with-coloRs/index.html#data-attribution",
+    "href": "blog/fun-with-coloRs/index.html#data-attribution",
+    "title": "Color Palettes in R: Making R more fun!",
+    "section": "",
+    "text": "The base plots for this post are from the lterdatasampler package in R, you can learn more about this here: lterdatasampler. I am using data from the Andrews Experimental Forest Long Term Ecological Research Station. I am plotting the weight (log-transformed to make the box plots clearer, in grams) of Giant Coastal Salamanders across study sites in the boxplots, and the length (in mm) and weight Giant Coastal Salamanders in the scatterplots here."
   }
 ]
