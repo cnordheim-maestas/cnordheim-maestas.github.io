@@ -1,0 +1,15 @@
+---
+title: "Making R moRe fun with coloR"
+description: "A walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R. Preview: la cRiox, tayloRswift, national parks palettes, and more"
+author:
+  - name: Caitlin Nordheim-Maestas
+    url: https://cnordheim-maestas.github.io/
+    affiliation: Graduate student in Ecology, Evolution & Marine Biology Department at University of California, Santa Barbara
+date: 5-15-2023
+categories: [R, Undergrad-researchers] # self-defined categories
+citation: 
+  url: https://cnordheim-maestas.github.io//blog/fun-with-coloRs/ 
+image: IMG_8797.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+

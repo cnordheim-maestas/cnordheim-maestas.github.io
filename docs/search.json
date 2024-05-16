@@ -151,7 +151,7 @@
     "href": "Blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Thomas Fire Analysis: AQI and False Color Image\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMy first blog post\n\n\n\n\n\n\n\nQuarto\n\n\nMEDS\n\n\nWorkshop\n\n\n\n\nPlaying with making a blog on a Quarto website\n\n\n\n\n\n\nOct 23, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\nNo matching items"
+    "text": "Thomas Fire Analysis: AQI and False Color Image\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMy first blog post\n\n\n\n\n\n\n\nQuarto\n\n\nMEDS\n\n\nWorkshop\n\n\n\n\nPlaying with making a blog on a Quarto website\n\n\n\n\n\n\nOct 23, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\n  \n\n\n\n\nMaking R moRe fun with coloR\n\n\n\n\n\n\n\nR\n\n\nUndergrad-researchers\n\n\n\n\nA walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R. Preview: la cRiox, tayloRswift, national parks palettes, and more\n\n\n\n\n\n\nMay 15, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Research.html#amphibian-disease-ecology",
@@ -362,5 +362,12 @@
     "title": "Publications",
     "section": "In Review",
     "text": "In Review\n\nV. Saenz, A.Q. Byrne, M.E.B. Ohmer T.T. Hammond, L.A. Brannelly, K.A. Altman, M. Kosowsky, C.L. Nordheim, E.B. Rosenblum and C.L. Richards-Zawacki. Landscape-scale drivers of spatial dynamics and genetic diversity in an emerging wildlife pathogen."
+  },
+  {
+    "objectID": "blog/fun-with-coloRs/index.html",
+    "href": "blog/fun-with-coloRs/index.html",
+    "title": "Making R moRe fun with coloR",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{nordheim-maestas2023,\n  author = {Nordheim-Maestas, Caitlin},\n  title = {Making {R} {moRe} Fun with {coloR}},\n  date = {2023-05-15},\n  url = {https://cnordheim-maestas.github.io//blog/fun-with-coloRs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNordheim-Maestas, Caitlin. 2023. “Making R moRe Fun with\ncoloR.” May 15, 2023. https://cnordheim-maestas.github.io//blog/fun-with-coloRs/."
   }
 ]
