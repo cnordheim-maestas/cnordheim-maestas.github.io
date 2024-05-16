@@ -119,39 +119,11 @@
     "text": "I am interested in the roles of reservoir hosts in wildlife disease transmission and persistence and how environmental stressors may impact these roles. My current doctoral work in the Briggs Lab includes studying the environmental persistence and potential reservoir hosts of Bd (Batrachochytrium dendrobatidis), a fungus responsible for a catastrophic amphibian disease, in California. Please see the Mentorship tab for undergraduate mentee-led related research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI worked as a lab manager and technician in the Richards-Zawacki lab at the University of Pittsburgh between 2019-2021. Here, I participated in collaborative research on temperature and climate impact the ecology and evolution of Bd-Host interactions across the U.S., and various research on the coloration of Panamanian Strawberry Poison Dart Frogs. Please see the Mentorship tab for undergraduate mentee-led related research projects. ​\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI conducted research on a wide variety of projects relating to Bd (Batrachochytrium dendrobatidis) over my four years as an undergraduate researcher in the McMahon conservation disease ecology lab at the University of Tampa (now at Connecticut College). This work encompassed examining the impacts of Bd on crayfish respiration, whether snails and algae are viable hosts of Bd, developing and testing Bd-vaccines on frogs, and more!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI studied how urbanization impacted amphibian and reptile communities during my summer research experience for undergraduates in the Bateman Lab at Arizona State University in collaboration with the NSF Central Arizona-Phoenix Long Term Ecological Research Center and the Froeschke Spatial Ecology Lab at the University of Tampa."
   },
   {
-    "objectID": "blog/2023-10-23-my-first-post/index.html",
-    "href": "blog/2023-10-23-my-first-post/index.html",
-    "title": "My first blog post",
-    "section": "",
-    "text": "I learned how to make citations in a blog; my most recent publication was (McMahon et al. 2023)."
-  },
-  {
-    "objectID": "blog/2023-10-23-my-first-post/index.html#this-is-my-first-section",
-    "href": "blog/2023-10-23-my-first-post/index.html#this-is-my-first-section",
-    "title": "My first blog post",
-    "section": "",
-    "text": "I learned how to make citations in a blog; my most recent publication was (McMahon et al. 2023)."
-  },
-  {
-    "objectID": "blog/2023-10-23-my-first-post/index.html#this-is-my-second-section",
-    "href": "blog/2023-10-23-my-first-post/index.html#this-is-my-second-section",
-    "title": "My first blog post",
-    "section": "This is my second section",
-    "text": "This is my second section\nText1 will go here! More info will go here!2"
-  },
-  {
-    "objectID": "blog/2023-10-23-my-first-post/index.html#footnotes",
-    "href": "blog/2023-10-23-my-first-post/index.html#footnotes",
-    "title": "My first blog post",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis is my first footnote↩︎\nThis is an inline footnote here↩︎"
-  },
-  {
     "objectID": "Blog.html",
     "href": "Blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Thomas Fire Analysis: AQI and False Color Image\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMy first blog post\n\n\n\n\n\n\n\nQuarto\n\n\nMEDS\n\n\nWorkshop\n\n\n\n\nPlaying with making a blog on a Quarto website\n\n\n\n\n\n\nOct 23, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\n  \n\n\n\n\nMaking R moRe fun with coloR\n\n\n\n\n\n\n\nR\n\n\nUndergrad-researchers\n\n\n\n\nA walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R. Preview: la cRiox, tayloRswift, national parks palettes, and more\n\n\n\n\n\n\nMay 15, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\nNo matching items"
+    "text": "Thomas Fire Analysis: AQI and False Color Image\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMaking R moRe fun with coloR\n\n\n\n\n\n\n\ndata-vis\n\n\nUndergrad-researchers\n\n\n\n\nA walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R. Preview: la cRiox, tayloRswift, national parks palettes, and more\n\n\n\n\n\n\nMay 15, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Research.html#amphibian-disease-ecology",
@@ -368,6 +340,20 @@
     "href": "blog/fun-with-coloRs/index.html",
     "title": "Making R moRe fun with coloR",
     "section": "",
-    "text": "CitationBibTeX citation:@online{nordheim-maestas2023,\n  author = {Nordheim-Maestas, Caitlin},\n  title = {Making {R} {moRe} Fun with {coloR}},\n  date = {2023-05-15},\n  url = {https://cnordheim-maestas.github.io//blog/fun-with-coloRs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNordheim-Maestas, Caitlin. 2023. “Making R moRe Fun with\ncoloR.” May 15, 2023. https://cnordheim-maestas.github.io//blog/fun-with-coloRs/."
+    "text": "One thing that I’ve learned quickly as a Teaching Assistant and research mentor in statistics and data visualization is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, color customization of different ggplot objects, and other fun ways to add some sparkle to your data visualization.\nNote that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun."
+  },
+  {
+    "objectID": "blog/fun-with-coloRs/index.html#load-libraries",
+    "href": "blog/fun-with-coloRs/index.html#load-libraries",
+    "title": "Making R moRe fun with coloR",
+    "section": "Load libraries",
+    "text": "Load libraries\nNote: you may need to install these if they are new to you - run install.packages\"packagename_here\" to install\n\nlibrary(tidyverse) # data wrangling, and includes ggplot\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nlibrary(paletteer) # package with a lot of color palettes\nlibrary(lterdatasampler) # data I will be using to show off the colors"
+  },
+  {
+    "objectID": "blog/fun-with-coloRs/index.html#paleteer",
+    "href": "blog/fun-with-coloRs/index.html#paleteer",
+    "title": "Making R moRe fun with coloR",
+    "section": "Paleteer",
+    "text": "Paleteer"
   }
 ]

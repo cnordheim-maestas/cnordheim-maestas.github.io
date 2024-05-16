@@ -13,7 +13,7 @@ bibliography: references.bib
 citation:
   url: https://cnordheim-maestas.github.io/blog/2023-10-23-my-first-post/
 image: IMG_6416.jpeg
-draft: false
+draft: true
 ---
 
 ## This is my first section

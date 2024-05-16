@@ -6,10 +6,35 @@ author:
     url: https://cnordheim-maestas.github.io/
     affiliation: Graduate student in Ecology, Evolution & Marine Biology Department at University of California, Santa Barbara
 date: 5-15-2023
-categories: [R, Undergrad-researchers] # self-defined categories
+categories: [data-vis, Undergrad-researchers] # self-defined categories
 citation: 
   url: https://cnordheim-maestas.github.io//blog/fun-with-coloRs/ 
 image: IMG_8797.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+# Intro
+
+One thing that I've learned quickly as a Teaching Assistant and research mentor in statistics and data visualization is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, color customization of different ggplot objects, and other fun ways to add some sparkle to your data visualization.
+
+Note that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun.
+
+# Resources
+
+-   Sam Csik's [color lecture](https://samanthacsik.github.io/EDS-240-data-viz/course-materials/week5.html) from her [Data Visualization & Communication course](https://samanthacsik.github.io/courses/eds-240-data-viz/) in the Masters of Environmental Data Science program at UC Santa Barbara.
+
+-   
+
+# Let's get coding!
+
+## Load libraries
+
+Note: you may need to install these if they are new to you - run `install.packages"packagename_here"` to install
+
+```{r}
+library(tidyverse) # data wrangling, and includes ggplot
+library(paletteer) # package with a lot of color palettes
+library(lterdatasampler) # data I will be using to show off the colors
+```
+
+## Paleteer
