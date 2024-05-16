@@ -1,16 +1,20 @@
 ---
-title: "Making R moRe fun with coloR"
-description: "A walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R. Preview: la cRiox, tayloRswift, national parks palettes, and more"
+title: "Color Palettes in R: Making R more fun!"
+description: "A walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R"
 author:
   - name: Caitlin Nordheim-Maestas
     url: https://cnordheim-maestas.github.io/
-    affiliation: Graduate student in Ecology, Evolution & Marine Biology Department at University of California, Santa Barbara
+    # affiliation: Graduate student in Ecology, Evolution & Marine Biology Department at University of California, Santa Barbara
 date: 5-15-2023
 categories: [data-vis, Undergrad-researchers] # self-defined categories
-citation: 
-  url: https://cnordheim-maestas.github.io//blog/fun-with-coloRs/ 
+# citation: 
+#   url: https://cnordheim-maestas.github.io//blog/fun-with-coloRs/ 
 image: IMG_8797.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+format:
+  html:
+    code-fold: true
+    code-summary: "Show the code"
 ---
 
 # Intro
@@ -19,22 +23,135 @@ One thing that I've learned quickly as a Teaching Assistant and research mentor 
 
 Note that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun.
 
+# Let's get coding!
+
+Build base plots & load libraries
+
+```{r}
+#| message: false
+#| warning: false
+
+library(tidyverse) # data wrangling, and includes ggplot
+library(paletteer) # package with a lot of color palettes
+library(lterdatasampler) # data I will be using to show off the colors
+
+# base plot
+base_plot <- and_vertebrates %>%
+  filter(species == "Coastal giant salamander") %>% 
+  ggplot(aes(x = sitecode, y = log(weight_g), fill = sitecode)) + # fill the boxes by the variable station
+  geom_boxplot() + # make a boxplot
+  labs(y = "Coastal giant salamander mass (log-g)", x= "Site Code") +
+  guides(fill = FALSE) + # remove legend
+  theme_minimal() 
+
+base_plot_scatter <- and_vertebrates %>%
+  filter(species == "Coastal giant salamander") %>% 
+  ggplot(aes(x = length_1_mm, y = weight_g, color = sitecode)) + # color by the variable station
+  geom_point() + # make a boxplot
+  labs(x = "Coastal giant salamander length (mm)", y= "Coastal giant salamander mass (g)") +
+  xlim(100,150) +
+  guides(fill = FALSE) + # remove legend
+  theme_minimal() 
+
+# base plot
+base_plot_twoboxes <- and_vertebrates %>%
+  filter(species == "Coastal giant salamander" | species == "Cascade torrent salamander") %>% 
+  ggplot(aes(x = species, y = log(weight_g), fill = species)) + # fill the boxes by the variable station
+  geom_boxplot() + # make a boxplot
+  labs(y = "Mass (log-g)", x= "Species") +
+  guides(fill = FALSE) + # remove legend
+  theme_minimal() 
+
+```
+
+## Taylor Swift Album Covers
+
+First, let's use the direct color palette package, you can learn more at the package's github:
+{{< fa brands github >}} [asteves tayloRswift github repository](https://github.com/asteves/tayloRswift)
+
+Important note: there are 2 functions: one for **fill**: `scale_fill_taylor` and one for **color**: `scale_color_taylor`
+
+```{r}
+#| message: false
+#| warning: false
+
+# install.packages(c("tayloRswift"))
+library(tayloRswift) 
+
+# Let's start with the album Lover
+base_plot +
+  scale_fill_taylor(palette = "lover", guide = "none") +
+  ggtitle("Lover Color Palette from tayloRswift Package")
+```
+
+Now, we can try using the paleteer package to load in the palette (no need to install and load `library(tayloRswift)`)
+
+```{r}
+#| message: false
+#| warning: false
+
+base_plot_scatter +
+  scale_color_manual(values = paletteer_d("tayloRswift::taylor1989")) +
+  ggtitle("1989 Color Palette from tayloRswift Package")
+```
+
+But, what if I want to choose a couple specific colors from the HEX codes? I can use the `paleteer_d` function to see the HEX codes for each palette
+
+```{r}
+#| message: false
+#| warning: false
+
+# Let's check out Evermore
+paletteer_d("tayloRswift::midnights")
+
+# Let's say I only want the two of the colors, I can make a new object with the HEX codes output above
+
+my_colors <- c("#B3A6A3FF", "#586891FF")
+
+# Now I can specify these as the colors in my plot
+base_plot_twoboxes +
+  scale_fill_manual(values = my_colors) +
+  ggtitle("Selected colors from Midnights palette from tayloRswift Package")
+```
+
+## La Croix Colors
+
+You can learn more at the package's github: {{< fa brands github >}} [johannesbjork LaCroixColoR github repository](https://github.com/johannesbjork/LaCroixColoR)
+
+```{r}
+#| message: false
+#| warning: false
+
+# Let's start with Pamplemousse
+
+# see the hex codes
+paletteer::paletteer_d("LaCroixColoR::Pamplemousse")
+
+base_plot +
+  paletteer::scale_fill_paletteer_d("LaCroixColoR::Pamplemousse") + # NOTE: fill for the boxplot
+  ggtitle("La Criox Pamplemousse Palette from LaCroixColoR Package") +
+  
+  # for fun, let's make the axes text the colors too
+  theme(axis.title = element_text(color = "#172869FF"),
+        axis.text = element_text(color = "#EA7580FF"))
+
+# Now let's do Lemon with a scatterplot
+
+# see the hex codes
+paletteer::paletteer_d("LaCroixColoR::Lemon") 
+
+base_plot_scatter +
+  paletteer::scale_color_paletteer_d("LaCroixColoR::Lemon") + # NOTE: color for the points
+  ggtitle("La Criox Lemon Palette from LaCroixColoR Package")
+
+```
+
+
 # Resources
 
 -   Sam Csik's [color lecture](https://samanthacsik.github.io/EDS-240-data-viz/course-materials/week5.html) from her [Data Visualization & Communication course](https://samanthacsik.github.io/courses/eds-240-data-viz/) in the Masters of Environmental Data Science program at UC Santa Barbara.
 
--   
+-   An Bui's Data Visualization Workshop from her [Stastics for Environmental Studies Course](https://an-bui.com/teaching/02_envs-193ds/) in the Environmental Studies program at UC Santa Barbara.
 
-# Let's get coding!
 
-## Load libraries
 
-Note: you may need to install these if they are new to you - run `install.packages"packagename_here"` to install
-
-```{r}
-library(tidyverse) # data wrangling, and includes ggplot
-library(paletteer) # package with a lot of color palettes
-library(lterdatasampler) # data I will be using to show off the colors
-```
-
-## Paleteer

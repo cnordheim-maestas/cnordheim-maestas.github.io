@@ -123,7 +123,7 @@
     "href": "Blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Thomas Fire Analysis: AQI and False Color Image\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nMaking R moRe fun with coloR\n\n\n\n\n\n\n\ndata-vis\n\n\nUndergrad-researchers\n\n\n\n\nA walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R. Preview: la cRiox, tayloRswift, national parks palettes, and more\n\n\n\n\n\n\nMay 15, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\nNo matching items"
+    "text": "Thomas Fire Analysis: AQI and False Color Image\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nColor Palettes in R: Making R more fun!\n\n\n\n\n\n\n\ndata-vis\n\n\nUndergrad-researchers\n\n\n\n\nA walkthrough and examples of some of my favorite color palettes and customizing colors in ggplot graphs in R\n\n\n\n\n\n\nMay 15, 2023\n\n\nCaitlin Nordheim-Maestas\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Research.html#amphibian-disease-ecology",
@@ -338,7 +338,7 @@
   {
     "objectID": "blog/fun-with-coloRs/index.html",
     "href": "blog/fun-with-coloRs/index.html",
-    "title": "Making R moRe fun with coloR",
+    "title": "Color Palettes in R: Making R more fun!",
     "section": "",
     "text": "One thing that I’ve learned quickly as a Teaching Assistant and research mentor in statistics and data visualization is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, color customization of different ggplot objects, and other fun ways to add some sparkle to your data visualization.\nNote that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun."
   },
@@ -352,8 +352,36 @@
   {
     "objectID": "blog/fun-with-coloRs/index.html#paleteer",
     "href": "blog/fun-with-coloRs/index.html#paleteer",
-    "title": "Making R moRe fun with coloR",
+    "title": "Color Palettes in R: Making R more fun!",
     "section": "Paleteer",
     "text": "Paleteer"
+  },
+  {
+    "objectID": "blog/fun-with-coloRs/index.html#taylorswift",
+    "href": "blog/fun-with-coloRs/index.html#taylorswift",
+    "title": "Making R moRe fun with coloR",
+    "section": "tayloRswift",
+    "text": "tayloRswift\nFirst, let’s use the direct color palette package, you can learn more here: https://github.com/asteves/tayloRswift.\nImportant note: there are 2 functions: one for fill: scale_fill_taylor and one for color: scale_color_taylor\n\n# install.packages(c(\"tayloRswift\"))\nlibrary(tayloRswift) \n\n# Let's start with the album Lover\nbase_plot +\n  scale_fill_taylor(palette = \"lover\", guide = \"none\") +\n  ggtitle(\"Lover color palette from tayloRswift package\")\n\nWarning: Removed 13268 rows containing non-finite outside the scale range\n(`stat_boxplot()`).\n\n\n\n\n\nNow, we can try using the paleteer package to load in the palette\n(no need to install and load library(tayloRswift))\n\nbase_plot +\n  scale_fill_manual(values = paletteer_d(\"tayloRswift::taylor1989\")) +\n  ggtitle(\"taylor1989 color palette from tayloRswift package\")\n\nWarning: Removed 13268 rows containing non-finite outside the scale range\n(`stat_boxplot()`)."
+  },
+  {
+    "objectID": "blog/fun-with-coloRs/index.html#lacroix",
+    "href": "blog/fun-with-coloRs/index.html#lacroix",
+    "title": "Making R moRe fun with coloR",
+    "section": "lacRoix",
+    "text": "lacRoix"
+  },
+  {
+    "objectID": "blog/fun-with-coloRs/index.html#taylor-swift-album-covers",
+    "href": "blog/fun-with-coloRs/index.html#taylor-swift-album-covers",
+    "title": "Color Palettes in R: Making R more fun!",
+    "section": "Taylor Swift Album Covers",
+    "text": "Taylor Swift Album Covers\nFirst, let’s use the direct color palette package, you can learn more at the package’s github:  asteves tayloRswift github repository\nImportant note: there are 2 functions: one for fill: scale_fill_taylor and one for color: scale_color_taylor\n\n\nCode\n# install.packages(c(\"tayloRswift\"))\nlibrary(tayloRswift) \n\n# Let's start with the album Lover\nbase_plot +\n  scale_fill_taylor(palette = \"lover\", guide = \"none\") +\n  ggtitle(\"Lover Color Palette from tayloRswift Package\")\n\n\n\n\n\nNow, we can try using the paleteer package to load in the palette (no need to install and load library(tayloRswift))\n\n\nCode\nbase_plot_scatter +\n  scale_color_manual(values = paletteer_d(\"tayloRswift::taylor1989\")) +\n  ggtitle(\"1989 Color Palette from tayloRswift Package\")\n\n\n\n\n\nBut, what if I want to choose a couple specific colors from the HEX codes? I can use the paleteer_d function to see the HEX codes for each palette\n\n\nCode\n# Let's check out Evermore\npaletteer_d(\"tayloRswift::midnights\")\n\n\n&lt;colors&gt;\n#586891FF #8897A4FF #B3A6A3FF #2B152CFF #F1F3F2FF \n\n\nCode\n# Let's say I only want the two of the colors, I can make a new object with the HEX codes output above\n\nmy_colors &lt;- c(\"#B3A6A3FF\", \"#586891FF\")\n\n# Now I can specify these as the colors in my plot\nbase_plot_twoboxes +\n  scale_fill_manual(values = my_colors) +\n  ggtitle(\"Selected colors from Midnights palette from tayloRswift Package\")"
+  },
+  {
+    "objectID": "blog/fun-with-coloRs/index.html#la-croix-colors",
+    "href": "blog/fun-with-coloRs/index.html#la-croix-colors",
+    "title": "Color Palettes in R: Making R more fun!",
+    "section": "La Croix Colors",
+    "text": "La Croix Colors\nYou can learn more at the package’s github:  johannesbjork LaCroixColoR github repository\n\n\nCode\n# Let's start with Pamplemousse\n\n# see the hex codes\npaletteer::paletteer_d(\"LaCroixColoR::Pamplemousse\")\n\n\n&lt;colors&gt;\n#EA7580FF #F6A1A5FF #F8CD9CFF #1BB6AFFF #088BBEFF #172869FF \n\n\nCode\nbase_plot +\n  paletteer::scale_fill_paletteer_d(\"LaCroixColoR::Pamplemousse\") + # NOTE: fill for the boxplot\n  ggtitle(\"La Criox Pamplemousse Palette from LaCroixColoR Package\") +\n  \n  # for fun, let's make the axes text the colors too\n  theme(axis.title = element_text(color = \"#172869FF\"),\n        axis.text = element_text(color = \"#EA7580FF\"))\n\n\n\n\n\nCode\n# Now let's do Lemon with a scatterplot\n\n# see the hex codes\npaletteer::paletteer_d(\"LaCroixColoR::Lemon\") \n\n\n&lt;colors&gt;\n#F7AA14FF #F5D000FF #F7E690FF #1BB6AFFF #088BBEFF #172869FF \n\n\nCode\nbase_plot_scatter +\n  paletteer::scale_color_paletteer_d(\"LaCroixColoR::Lemon\") + # NOTE: color for the points\n  ggtitle(\"La Criox Lemon Palette from LaCroixColoR Package\")"
   }
 ]
