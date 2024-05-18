@@ -27,7 +27,11 @@ Note that these are just a few of my favorites, and there is a whole world of co
 
 Here are a few resources for exploring color palettes:
 
--   `Paleteer` is a  "comprehensive collection of color palettes in R using a common interface", and contains *hundreds* of palettes, including the three I show here in this post. You can learn more about the package at the {{< fa brands github >}} [Emil Hvitfeldt Paleteer github repository](https://github.com/EmilHvitfeldt/paletteer) and [browse the palettes in this gallery](https://pmassicotte.github.io/paletteer_gallery/).
+-   `Paleteer` is a "comprehensive collection of color palettes in R using a common interface", and contains *hundreds* of palettes, including the three I show here in this post. You can learn more about the package at the {{< fa brands github >}} [Emil Hvitfeldt Paleteer github repository](https://github.com/EmilHvitfeldt/paletteer) and [browse the palettes in this gallery](https://pmassicotte.github.io/paletteer_gallery/).
+
+-   `Viridis` is a package of multiple colorblind-friendly color palettes. You can learn more about the package at the {{< fa brands github >}} [Simon Garnier's viridis github repository](https://github.com/sjmgarnier/viridis) and read more about the package [here](https://sjmgarnier.github.io/viridis/).
+
+-   [Coolors.co](https://coolors.co/) is a site where you can click through or generate your own color palettes.
 
 ## Data attribution
 
