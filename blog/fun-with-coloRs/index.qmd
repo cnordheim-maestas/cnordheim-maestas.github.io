@@ -19,7 +19,7 @@ format:
 
 # Intro
 
-One thing that I've learned as a Teaching Assistant and research mentor in data visualization & statistics is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, and other fun ways to add some sparkle to your data visualization.
+Playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the classroom always brightens when we introduce color customization, but we often don't have time in class to go into depth.
 
 Note that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun.
 
@@ -81,9 +81,10 @@ base_plot_twoboxes <- and_vertebrates %>%
 
 ## Taylor Swift Album Covers
 
-First, let's use the direct color palette package, you can learn more at the package's github: {{< fa brands github >}} [asteves tayloRswift github repository](https://github.com/asteves/tayloRswift)
 
-Important note: there are 2 functions: one for **fill**: `scale_fill_taylor` and one for **color**: `scale_color_taylor`.
+`tayloRswift` is a collection of color palettes made from Taylor Swift's album covers. You can learn more at the package's github: {{< fa brands github >}}[asteves tayloRswift github repository](https://github.com/asteves/tayloRswift). 
+
+First, let's use the direct color palette package, `tayloRswift`. Next, we will use another package to access these color palettes. *Note: in this package, there are 2 functions: one for **fill**: `scale_fill_taylor` and one for **color**: `scale_color_taylor`.*
 
 ```{r}
 #| message: false
@@ -98,7 +99,7 @@ base_plot +
   ggtitle("Lover Color Palette from tayloRswift Package")
 ```
 
-Now, we can try using the paleteer package to load in the palette (no need to install and load `library(tayloRswift)`)
+Now, we can try using the `paleteer` package to load in the palette (no need to install and load `library(tayloRswift)`). We will use Paleteer to look at the HEX codes for the palette from the album Red (Taylor's Version, of course). 
 
 ```{r}
 #| message: false

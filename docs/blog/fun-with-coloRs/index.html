@@ -237,7 +237,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="intro" class="level1">
 <h1>Intro</h1>
-<p>One thing that I’ve learned as a Teaching Assistant and research mentor in data visualization &amp; statistics is that playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the room always brightens when we introduce these concepts, but we often do not have time in class to go into depth on color palettes, and other fun ways to add some sparkle to your data visualization.</p>
+<p>Playing with color and customization is a great way to add personality and fun to coding! Without fail, the energy in the classroom always brightens when we introduce color customization, but we often don’t have time in class to go into depth.</p>
 <p>Note that these are just a few of my favorites, and there is a whole world of color palettes out there for so many interests! I hope this post gives enough background for you to explore and find your favorites too, and make your coding and graphing journey a bit more fun.</p>
 <section id="finding-color-palettes" class="level2">
 <h2 class="anchored" data-anchor-id="finding-color-palettes">Finding color palettes</h2>
@@ -294,8 +294,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 <section id="taylor-swift-album-covers" class="level2">
 <h2 class="anchored" data-anchor-id="taylor-swift-album-covers">Taylor Swift Album Covers</h2>
-<p>First, let’s use the direct color palette package, you can learn more at the package’s github: <i class="fa-brands fa-github" aria-label="github"></i> <a href="https://github.com/asteves/tayloRswift">asteves tayloRswift github repository</a></p>
-<p>Important note: there are 2 functions: one for <strong>fill</strong>: <code>scale_fill_taylor</code> and one for <strong>color</strong>: <code>scale_color_taylor</code>.</p>
+<p><code>tayloRswift</code> is a collection of color palettes made from Taylor Swift’s album covers. You can learn more at the package’s github: <i class="fa-brands fa-github" aria-label="github"></i><a href="https://github.com/asteves/tayloRswift">asteves tayloRswift github repository</a>.</p>
+<p>First, let’s use the direct color palette package, <code>tayloRswift</code>. Next, we will use another package to access these color palettes. <em>Note: in this package, there are 2 functions: one for <strong>fill</strong>: <code>scale_fill_taylor</code> and one for <strong>color</strong>: <code>scale_color_taylor</code>.</em></p>
 <div class="cell">
 <details>
 <summary>Code</summary>
@@ -311,7 +311,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><img src="index_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
-<p>Now, we can try using the paleteer package to load in the palette (no need to install and load <code>library(tayloRswift)</code>)</p>
+<p>Now, we can try using the <code>paleteer</code> package to load in the palette (no need to install and load <code>library(tayloRswift)</code>). We will use Paleteer to look at the HEX codes for the palette from the album Red (Taylor’s Version, of course).</p>
 <div class="cell">
 <details>
 <summary>Code</summary>
