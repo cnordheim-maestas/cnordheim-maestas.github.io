@@ -60,6 +60,7 @@ base_plot <- and_vertebrates %>%
 
 base_plot_scatter <- and_vertebrates %>%
   filter(species == "Coastal giant salamander") %>% 
+  filter(sitecode != "MACKCC-L") %>% 
   ggplot(aes(x = length_1_mm, y = weight_g, color = sitecode)) + # color by the variable station
   geom_point() + # make a boxplot
   labs(x = "Coastal giant salamander length (mm)", y= "Coastal giant salamander mass (g)") +
@@ -82,7 +83,7 @@ base_plot_twoboxes <- and_vertebrates %>%
 
 First, let's use the direct color palette package, you can learn more at the package's github: {{< fa brands github >}} [asteves tayloRswift github repository](https://github.com/asteves/tayloRswift)
 
-Important note: there are 2 functions: one for **fill**: `scale_fill_taylor` and one for **color**: `scale_color_taylor`
+Important note: there are 2 functions: one for **fill**: `scale_fill_taylor` and one for **color**: `scale_color_taylor`.
 
 ```{r}
 #| message: false
@@ -104,8 +105,8 @@ Now, we can try using the paleteer package to load in the palette (no need to in
 #| warning: false
 
 base_plot_scatter +
-  scale_color_manual(values = paletteer_d("tayloRswift::taylor1989")) +
-  ggtitle("1989 Color Palette from tayloRswift Package")
+  scale_color_manual(values = paletteer_d("tayloRswift::taylorRed")) +
+  ggtitle("Red Color Palette from tayloRswift Package")
 ```
 
 But, what if I want to choose a couple specific colors from the HEX codes? I can use the `paleteer_d` function to see the HEX codes for each palette
@@ -157,6 +158,44 @@ base_plot_scatter +
   paletteer::scale_color_paletteer_d("LaCroixColoR::Lemon") + # NOTE: color for the points
   ggtitle("La Criox Lemon Palette from LaCroixColoR Package")
 
+```
+
+## National Parks Colors
+
+These color palettes come from National Parks posters. You can learn more at the package's github: {{< fa brands github >}} [katiejolly's Nationalparkcolors github repository](https://github.com/katiejolly/nationalparkcolors)
+
+National Park posters and images
+
+```{r}
+#| message: false
+#| warning: false
+
+# Let's start with the original package
+#devtools::install_github("katiejolly/nationalparkcolors") #uncomment to install
+library(nationalparkcolors)
+
+# see the palette
+# park_palette("Saguaro")
+
+# build the palette
+pal <- park_palette("Saguaro")
+
+base_plot +
+  scale_fill_manual(values = pal) +
+  ggtitle("National Parks Saguaro Palette from nationalparks Package")
+  
+# Now let's do Everglades with paleteer with a scatterplot
+
+# see the hex codes
+paletteer::paletteer_d("nationalparkcolors::Everglades") 
+
+base_plot_scatter +
+  paletteer::scale_color_paletteer_d("nationalparkcolors::Everglades") + # NOTE: color for the points
+  ggtitle("Everglades Palette from nationalparkcolors Package") +
+
+  # for fun, let's make the axes text the colors too
+  theme(axis.title = element_text(color = "#B4674EFF"),
+        axis.text = element_text(color = "#2E8289FF"))
 ```
 
 # Resources
