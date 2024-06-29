@@ -22,7 +22,7 @@ about:
 
 ## About Me
 
-Hi, I'm Caitlin Nordheim-Maestas! I'm a third-year Ph.D. student who is especially passionate about wildlife conservation, disease ecology, and undergraduate research mentorship. 
+Hi, I'm Caitlin Nordheim-Maestas! I'm a third-year Ph.D. student who is especially passionate about disease ecology, wildlife conservation, and undergraduate research mentorship. 
 
 I am in the [Briggs Lab](https://briggslab.eemb.ucsb.edu/) at UC Santa Barbara studying amphibian disease ecology, specifically, the "chytrid fungus" *Batrachochytrium dendrobatidis*, in California.
 
@@ -31,5 +31,5 @@ I am in the [Briggs Lab](https://briggslab.eemb.ucsb.edu/) at UC Santa Barbara s
 
 Ph.D. Ecology, Evolution & Marine Biology, UC Santa Barbara (2021 - Present)
 
-B.S. Biology, The University of Tampa (2015)
+B.S. Biology, The University of Tampa (2019)
 
