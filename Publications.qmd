@@ -7,6 +7,8 @@ title: "Publications"
 ## Accepted
 <ol reversed>
 
+<li>V. Saenz, A.Q. Byrne, M.E.B. Ohmer T.T. Hammond, L.A. Brannelly, K.A. Altman, M. Kosowsky, **C.L. Nordheim-Maestas**, E.B. Rosenblum and C.L. Richards-Zawacki. 2025. Landscape-scale drivers of spatial dynamics and genetic diversity in an emerging wildlife pathogen.  [*Oecologia*]{.underline}: 207(3). <https://doi.org/10.1007/s00442-024-05642-8> {{< fa file >}} [PDF](paper-pdfs/Oecologia-2025.pdf)
+
 <li>M.P. Heard, **C.L. Nordheim**, C. McKinley, Z.L. Zilz, V.A. Jones, B.A. Vincent, and E.M. Caves. 2023. Excluded Identity Retention in STEM: A Roadmap for Inclusive Undergraduate Research Symposia. [*Oceanography*]{.underline}: 36(4). <https://doi.org/10.5670/oceanog.2024.116> {{< fa file >}} [PDF](paper-pdfs/oceanography-2023.pdf)
 
 <li>T.A. McMahon, **C.L. Nordheim**, S.E. Detmering, P.T.J. Johnson, J.R. Rohr, and D. Civitello. 2023. *Pseudacris regilla* metamorphs acquire resistance to a deadly pathogen after exposure to the killed fungus. [*Diseases of Aquatic Organisms*]{.underline}: 155:193-198. <https://doi.org/10.3354/dao03753> {{< fa file >}} [PDF](paper-pdfs/dao-2023.pdf)
@@ -23,6 +25,8 @@ title: "Publications"
 
 ## In Review
 
--   V. Saenz, A.Q. Byrne, M.E.B. Ohmer T.T. Hammond, L.A. Brannelly, K.A. Altman, M. Kosowsky, **C.L. Nordheim**, E.B. Rosenblum and C.L. Richards-Zawacki. Landscape-scale drivers of spatial dynamics and genetic diversity in an emerging wildlife pathogen.
+-   TA. McMahon, C.L. Nordheim-Maestas, S.E. Detmering A.J. Malinias, M. Monsalve, L.C. Muldro, and 
+E. O. Sisson. Refining the production and implementation of the Bd Metabolite Prophylaxis for Pseudacris regilla metamorphs.
+
 
 
