@@ -65,10 +65,10 @@ and resources!
 
 #### Resources for first-time presenters:
 
--   Ecological Society of America’s Strategies for Ecology Education,
-    Diversity and Sustainability (SEEDS) UCSB Chapter Workshop
-    Coordinator and Presenter: “How to Write a Research Conference
-    Abstract” – 2024 & 2025
+-   Ecological Society of America’s [Strategies for Ecology Education,
+    Diversity and Sustainability (SEEDS)](https://esa.org/seeds/) UCSB
+    Chapter Workshop Coordinator and Presenter: “How to Write a Research
+    Conference Abstract” – 2024 & 2025
 
 ::: {layout-ncol="3"}
 ![Poster session at 2022
@@ -86,8 +86,10 @@ fig-align="center" width="6cm"}
 
 ## Outreach Talks
 
--   [Science by the Pint Outreach Talk](https://www.draughtsmenaleworks.com/events/science-by-the-pint-2-ym8cy): “Hopping Through Hard Times: The Life of Californian 
-    Frogs” (2025) **C.L.Nordheim-Maestas** & C. Mallory Draughtsman Aleworks
+-   [Science by the Pint Outreach
+    Talk](https://www.draughtsmenaleworks.com/events/science-by-the-pint-2-ym8cy):
+    “Hopping Through Hard Times: The Life of Californian Frogs” (2025)
+    **C.L.Nordheim-Maestas** & C. Mallory Draughtsman Aleworks
 
 -   [Brattleboro Union High School & Windham Regional Career
     Center](https://www.wrccvt.com/) Career Talk Presenter: “Exploring
@@ -101,7 +103,8 @@ fig-align="center" width="6cm"}
     Nordheim-Maestas**
 
 -   Science by the Pint Outreach Talk: “Beyond the Pond: Exploring the
-    Role of Aquatic Bugs in Frog Disease Risk” (2024) **C.L. Nordheim-Maestas** Draughtsman             Aleworks
+    Role of Aquatic Bugs in Frog Disease Risk” (2024) **C.L.
+    Nordheim-Maestas** Draughtsman Aleworks
 
 -   [Sierra Nevada Aquatic Research
     Laboratory](https://ucnrs.org/reserves/sierra-nevada-aquatic-research-laboratory/)
